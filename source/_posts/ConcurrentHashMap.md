@@ -9,7 +9,7 @@ tags:
 
 ## ConcurrentHashMap 1.7
 
-**在JDK1.7中ConcurrentHashMap采用了数组+分段锁的方式实现**。
+**在 JDK1.7中ConcurrentHashMap采用了数组+分段锁的方式实现**。
 
 Segment(分段锁)-减少锁的粒度
 
